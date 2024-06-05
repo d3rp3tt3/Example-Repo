@@ -1,2 +1,2 @@
 # Example-Repo
-A basic repo showing how git w/GitHub works
+A basic repo showing how git w/GitHub works. This is a very basic activity to demonstrate the Git workflow.
